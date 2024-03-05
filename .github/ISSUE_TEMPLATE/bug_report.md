@@ -1,38 +1,32 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: "[BUG]"
+name: Bug Report for DevOps Challenge 2
+about: Create a bug report to help enhance the project
+title: "[BUG] Specific Issue"
 labels: bug
-assignees: romankh3
+assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Describe the Bug**
+Provide a detailed explanation of the bug within the context of the DevOps Challenge 2 project.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Steps to Reproduce**
+Detail the steps to reproduce the issue:
+1. Navigate to '...'
+2. Execute or click on '....'
+3. Observe '....'
+4. Encounter error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Expected Behavior**
+Describe what you expected to happen and how it differs from the actual behavior.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+If relevant, include screenshots to illustrate the problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Environment (please complete the following information):**
+ - Deployment: [e.g., GCP, Terraform]
+ - Component: [e.g., Chatwoot, Novu, Microservice]
+ - Version: [e.g., 1.2]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+**Additional Context**
+Provide any other information that could be useful for diagnosing or fixing the bug.

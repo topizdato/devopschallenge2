@@ -1,0 +1,6 @@
+[submodule "chatwoot"]
+	path = chatwoot
+	url = https://github.com/chatwoot/chatwoot.git
+[submodule "novu"]
+	path = novu
+	url = https://github.com/novuhq/novu.git

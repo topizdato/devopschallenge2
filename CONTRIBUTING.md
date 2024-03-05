@@ -1,29 +1,23 @@
-# Contributing to Repository Template
+# Contributing to DevOps Challenge 2 Repository
 
-👍🎉 First off, thanks for taking the time to contribute! 🎉👍
+👍🎉 Thank you for contributing to the DevOps Challenge 2 project! 🎉👍
 
-## Did you find a bug
-*   Ensure the bug was not already reported by searching on GitHub under [Issues](https://github.com/romankh3/repository-template/issues).
+## Did You Find a Bug?
+*   Search [Issues](https://github.com/topizdato/devopschallenge2/issues) to check if the bug has already been reported.
+*   If not found, open a [new issue](https://github.com/topizdato/devopschallenge2/issues/new/choose). Include a descriptive title, detailed description, and as much relevant information as possible. Attach code samples or test cases that demonstrate the bug.
 
-*   If you're unable to find an open issue addressing the problem, open a [new one](https://github.com/romankh3/repository-template/issues/new/choose). 
-    Be sure to include a title and clear description, as much relevant information as possible, 
-    and a code sample or an executable test case demonstrating the expected behavior that is not occurring.
-    
-*   Provide test images, which can be used for reproducing.
+## Did You Write a Patch That Fixes a Bug?
+*   Submit a new pull request with your patch.
+*   Clearly describe the problem and solution in your PR. Reference any related issue numbers.
 
-## Did you write a patch that fixes a bug
-*   Open a new GitHub pull request with the patch.
+## Cosmetic Changes
+*   Cosmetic changes that improve the project's readability or aesthetics are welcome. 
 
-*   Ensure the PR description clearly describes the problem and solution. Include the relevant issue number if applicable.
+## New Features or Changes
+*   For new feature suggestions or changes, first submit a **Feature Request** issue for discussion.
+*   Wait for feedback before starting your work to ensure it aligns with the project's direction.
+*   Only submit a pull request after receiving positive feedback.
 
-## Did you fix whitespace, format code, or make a purely cosmetic patch
-Changes that are cosmetic in nature and do not add anything substantial to the stability, 
-functionality, or testability of Repository Template - welcome.
-## Do you intend to add a new feature or change an existing one
-*   Suggest your change in the **Feature request** and wait for approval to avoid writing code, which won't be added.
+Your contributions are greatly appreciated and help enhance the DevOps Challenge 2 project!
 
-*   Do not open a Pull-Request on GitHub until you have collected positive feedback about the change.
-
-Thanks! 
-
-Repository Template.
+Thank you!

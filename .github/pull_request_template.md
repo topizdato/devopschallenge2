@@ -1,45 +1,37 @@
 # PR Details
 
-<!--- Provide a general summary of your changes in the Title above -->
+<!--- Provide a summary of your changes reflecting the context of the DevOps Challenge 2 project -->
 
 ## Description
 
-<!--- Describe your changes in detail -->
+<!--- Offer an in-depth description of what modifications you've made and how they benefit the project -->
 
 ## Related Issue
 
-<!--- This project only accepts pull requests related to open issues -->
-<!--- If suggesting a new feature or change, please discuss it in an issue first -->
-<!--- If fixing a bug, there should be an issue describing it with steps to reproduce -->
-<!--- Please link to the issue here: -->
+<!--- Link back to the relevant issue in this repository that your PR aims to resolve -->
 
 ## Motivation and Context
 
-<!--- Why is this change required? What problem does it solve? -->
+<!--- Explain the background of these changes, providing the reason for the modifications -->
 
-## How Has This Been Tested
+## How Has This Been Tested?
 
-<!--- Please describe in detail how you tested your changes. -->
-<!--- Include details of your testing environment, and the tests you ran to -->
-<!--- see how your change affects other areas of the code, etc. -->
+<!--- Detail the testing methods used, environments, and how the testing confirms your fix or feature -->
 
-## Types of changes
+## Types of Changes
 
-<!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
+<!--- Specify the nature of your changes within the context of the project -->
 
-- [ ] Docs change / refactoring / dependency upgrade
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to change)
+- [ ] Infrastructure / Deployment changes
+- [ ] Integration or feature enhancement
+- [ ] Bug fix in either Chatwoot or Novu integration
+- [ ] Documentation or configuration adjustments
 
 ## Checklist
 
-<!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
-<!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
+<!--- Review and check all that apply to ensure your PR is aligned with the project standards -->
 
-- [ ] My code follows the code style of this project.
-- [ ] My change requires a change to the documentation.
-- [ ] I have updated the documentation accordingly.
-- [ ] I have read the **CONTRIBUTING** document.
-- [ ] I have added tests to cover my changes.
-- [ ] All new and existing tests passed.
+- [ ] Alignment with the code style and structure of the project
+- [ ] Necessary documentation updates are made
+- [ ] Impact on existing code and functionality is considered and tested
+- [ ] The contribution guidelines are acknowledged and followed
